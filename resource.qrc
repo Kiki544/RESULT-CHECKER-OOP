@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>Icons/arrow-24-32.ico</file>
+    <file>Icons/arrow-204-32.ico</file>
+    <file>Icons/close-window-32.ico</file>
+    <file>Icons/close-window-48.ico</file>
+    <file>Icons/curri.png</file>
+    <file>Icons/noun-student-1332034.png</file>
+    <file>Icons/noun-literature-152496.png</file>
+    <file>Icons/noun-exam-result-3629468.png</file>
+    <file>Icons/noun-registration-5757248.png</file>
+    <file>Icons/noun-result-2063212.png</file>
+    <file>Icons/download (2).png</file>
+    <file>Icons/account-logout-64.ico</file>
+    <file>Icons/close-window-64.ico</file>
+    <file>Icons/dashboard-5-32 (1).ico</file>
+    <file>Icons/dashboard-5-32.ico</file>
+    <file>Icons/dashboard-5-48.ico</file>
+    <file>Icons/home-4-32.ico</file>
+    <file>Icons/home-4-48.ico</file>
+    <file>Icons/menu-4-32.ico</file>
+    <file>Icons/menu-4-48.ico</file>
+    <file>Icons/search-14-48.ico</file>
+    <file>Icons/user-48.ico</file>
+  </qresource>
+</RCC>
